@@ -1,1 +1,2 @@
 # CSC
+Experimenting with github
